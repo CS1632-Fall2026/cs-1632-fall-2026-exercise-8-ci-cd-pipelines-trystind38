@@ -88,7 +88,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-project-info-reports-plugin</artifactId>
-        <version>3.5.0</version>
+        <version>3.9.0</version>
       </plugin>
       <!-- Runs the JUnit tests in the test phase.  Pinned so that the test run does not
            depend on the default version of whichever Maven runs the build. -->
